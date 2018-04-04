@@ -162,6 +162,6 @@ def check_input(prompt, values_list):
 
         print("Please enter an appropriate value --> " + ", ".join(values_list))
 
-asternic_version = check_input("Would you like to install Asternic Stats PRO or Lite? (P/L)",['p', 'pro', 'l', 'lite'])
+asternic_version = check_input("\033[92mWould you like to install Asternic Stats PRO or Lite? (P/L)\033[0m",['p', 'pro', 'l', 'lite'])
 i = asternic_installer(asternic_version)
 i.run()
