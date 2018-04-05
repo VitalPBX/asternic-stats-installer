@@ -19,3 +19,6 @@ chmod +x vpbx_asternic.sh
 <pre>
 ./vpbx_asternic.sh
 </pre>
+
+## Installation Proccess (Gift)
+![Installer](https://raw.githubusercontent.com/VitalPBX/asternic-stats-installer/master/asternic_vpbx.gif)
