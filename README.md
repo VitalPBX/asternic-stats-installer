@@ -14,7 +14,7 @@ wget https://raw.githubusercontent.com/VitalPBX/asternic-stats-installer/master/
 3. Set correct permissions to script:
 <pre>
 chmod +x vpbx_asternic.sh
-
+</pre>
 4. Execute the installer Script
 <pre>
 ./vpbx_asternic.sh
