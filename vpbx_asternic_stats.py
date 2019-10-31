@@ -12,7 +12,7 @@ import subprocess
 class asternic_installer:
     url = 'http://download.asternic.net/'
     apache_conf_url = 'https://raw.githubusercontent.com/VitalPBX/asternic-stats-installer/master/ccstats.conf'
-    latest_pro_version = 'asternic-stats-pro-2.2.4.tgz'
+    latest_pro_version = 'asternic-stats-pro-2.2.7.tgz'
     latest_lite_version = 'asternic-stats-1.5.tgz'
     local_path = '/usr/src/app_sources'
     installation_path = '/usr/share/ccstats'
